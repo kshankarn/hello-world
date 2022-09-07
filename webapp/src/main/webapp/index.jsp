@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>New user Register for DevOps Learning</h1>
-    <h1>Commiting thru Git. Automating thru Git. Welcome to Devops project</h1>
+    <h1>Commiting thru Git. Automating thru Git and working. Welcome to Devops project</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
